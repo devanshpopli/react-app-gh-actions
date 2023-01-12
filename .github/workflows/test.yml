@@ -1,4 +1,4 @@
-new: Test Project
+name: Test Project
 on: push
 jobs:
   tests:
